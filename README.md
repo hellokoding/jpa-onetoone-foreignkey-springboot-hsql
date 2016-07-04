@@ -1,7 +1,7 @@
-# JPA One-To-One Foreign Key Relationship Mapping Example with Spring Boot, HSQLDB
+# JPA One-To-One Foreign Key Relationship Mapping Example with Spring Boot, HSQL
 
 ## Guide
-https://hellokoding.com/jpa-one-to-one-foreignkey-relationship-example-with-spring-boot-hsqldb/
+https://hellokoding.com/jpa-one-to-one-foreignkey-relationship-example-with-spring-boot-hsql/
 
 ## What you'll need
 - JDK 1.7 or later
