@@ -3,7 +3,7 @@
 ## Guide
 https://hellokoding.com/jpa-one-to-one-foreignkey-relationship-example-with-spring-boot-hsqldb/
 
-## Prerequisites
+## What you'll need
 - JDK 1.7 or later
 - Maven 3 or later
 
