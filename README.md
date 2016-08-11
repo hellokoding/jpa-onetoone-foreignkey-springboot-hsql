@@ -1,4 +1,4 @@
-# JPA One-To-One Foreign Key Relationship Mapping Example with Spring Boot, HSQL
+# JPA One-To-One Foreign Key Relationship Mapping Example with Spring Data JPA, Spring Boot
 
 ## Guide
 https://hellokoding.com/jpa-one-to-one-foreignkey-relationship-example-with-spring-boot-hsql/
